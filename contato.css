@@ -1,0 +1,50 @@
+body {
+  background-color: #000000;
+  font-family: Courier, monospace;
+  color: #abb8c3;
+  ;
+}
+
+
+p {
+  font-size: 20px;
+  line-heigth: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: #FF69B4;
+  font-weight: 700;
+  border: 1px solid transparent;
+  padding: 1px 10px;
+  border-radius: 5px;
+  border-color: #FF69B4;
+}
+
+a:hover {
+  background-color: #000000;
+  transition: 0.4s;
+  opacity: 0.2;
+}
+
+h2 {
+  color: #FF69B4;
+  font-size: 40px;
+}
+
+
+input {
+  background: #faf2f8;
+  border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+  opacity: 0.8;
+}
+
+textarea {
+  background: #faf2f8;
+  border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+  opacity: 0.8;
+}
